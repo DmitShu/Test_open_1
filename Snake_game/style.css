@@ -1,0 +1,16 @@
+﻿/* Для всего тега body  */
+body {
+	margin: 0px; /* внешний отступ 0 */
+	font-family: sans-serif; /* тип шрифта */
+}
+
+/* стилизуем поле игра */
+#game {
+	background: #353336;
+	width: 100vw;
+	height: 100vh;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
